@@ -56,5 +56,5 @@ Receive 95050 from process 9<br>
 Total sum is 500500<br>
 Send 85050 to process 0 by process 8
 
-(8)	Revise your program and script file appropriately so that your program is working for 16 nodes, and then run your program. Name this job job6.
+(8)	Revise your program and script file appropriately so that your program is working for 16 nodes, and then run your program. Name this job job6.<br>
 (9)	Revise your program such that blocking send and blocking receive are replaced with nonblocking send and nonblocking receive. Change your script file to run this program. Name this job job7.
